@@ -1,0 +1,12 @@
+"FirstResponder" = {ACTIONS = {}; OUTLETS = {}; SUPERCLASS = NSObject; };
+"LTTimerWindowController" = {
+    ACTIONS = {"timerButtonClicked:" = id; "timerTextChanged:" = id; }; 
+    OUTLETS = {
+        _centsecTextField = id; 
+        _minutesTextField = id; 
+        _secondsTextField = id; 
+        _startButton = id; 
+        _timer = id; 
+    }; 
+    SUPERCLASS = NSResponder; 
+};
