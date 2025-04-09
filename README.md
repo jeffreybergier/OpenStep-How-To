@@ -10,6 +10,11 @@ Thank you for coming to my Try! Swift Tokyo 2025 lightning talk. While the talk 
 - [Timer App](LightningTimer/LightningTimer) - Not much use but if you want to see how easy it was to build this little timer app for OpenStep, take a look
 This is a guide for how to get a development environment working in OpenStep
 
+## Atsuko Tsuchiya
+If you can help my friend Atsuko find her first development job
+- [Resume (English)](LightningTalk/docs/Tsuchiya.Atsuko.Resume.EN.pdf)
+- [Resume (Japanese)](LightningTalk/docs/Tsuchiya.Atsuko.Resume.JA.pdf)
+
 ## Video
 Unfortunately, there is no recording of the presentation. But I did my best to recreate the talk offline. Its not as fun, but it has all the same content.
 - [Presentation Recreation Video](https://drive.google.com/file/d/1IGKVar6Rn0vYqLYuU7EaEeMTLS96P8cx/view?usp=share_link)
